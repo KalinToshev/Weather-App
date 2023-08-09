@@ -6,3 +6,5 @@ Welcome to our Weather App for Website! With the power of HTML, CSS, and JavaScr
 Using JavaScript, we seamlessly integrate this weather data into our website, offering a user-friendly experience. Our app features a convenient search box, enabling users to enter the name of any city and instantly retrieve its weather information.
 
 Stay informed and prepared with our Weather App for Website – an essential tool to keep you updated on weather conditions worldwide!
+
+![Alt text](image.png)
