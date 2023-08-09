@@ -7,4 +7,8 @@ Using JavaScript, we seamlessly integrate this weather data into our website, of
 
 Stay informed and prepared with our Weather App for Website – an essential tool to keep you updated on weather conditions worldwide!
 
-![Alt text](image.png)
+![First thing that is seen when open the app](image.png)
+
+![How the result was shown, when city was found](image-1.png)
+
+![How the result was shown, when a city was not found](image-2.png)
